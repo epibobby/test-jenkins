@@ -32,5 +32,6 @@ int CTestPlus::value() const
 }
 void CTestPlus::value(int val)
 {
+int toto;
         m_value[2]=val;
 }

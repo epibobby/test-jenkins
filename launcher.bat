@@ -1,4 +1,4 @@
-cd "C:\Jenkins\jobs\Jenkins_Val_git\workspace\test-jenkins"
+cd "C:\Jenkins\jobs\test-jenkins\workspace\"
  
 call "C:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\bin\vcvars32.bat"
 SET PATH=%PATH%;C:\Qt\4.7.4\bin
